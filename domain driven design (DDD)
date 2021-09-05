@@ -1,0 +1,31 @@
+SI DDD
+
+Research the Internet and/or the recommended books and find the answers of the following questions:
+
+● what is DDD?
+ 
+It's a concept to match software code to match the business end.(simply put) applied to business software that solves real-world business problems.
+An example of the “structure” would be, a school that has a software that processes applications from students that wish to apply. It would maybe have a Class called ApplicationFromStudents, and methods like AcceptStudents, DenyStudents.
+
+
+
+● When did it originate?
+
+I think a guy called Eric Evans, wrote a book about DDD. Basically he took the best practices of developing software, and combined them ??
+ 
+● Which problems did it address?
+ 
+Domain-driven design provides benefits such as:
+Helps a team create a common model and common “language”. That Helps with communicating to the business side and developer side of the team.
+
+
+● which are the basic concepts and building blocks of a domain model
+ 
+Placing the core domain and domain logic as the primary focus.
+Basing the design model of the domain.
+Creating a common language and a collaboration between business and developers.
+
+
+● How does DDD relate to microservices architecture?
+
+
